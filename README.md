@@ -1,2 +1,2 @@
 # Hexapod
-[]: https://media.giphy.com/media/1zKf1QV6BUiEFbIvwo/giphy.gif
+<img src="https://media.giphy.com/media/1zKf1QV6BUiEFbIvwo/giphy.gif" alt="Walking">
